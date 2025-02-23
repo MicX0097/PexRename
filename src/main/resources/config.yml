@@ -1,0 +1,4 @@
+messages:
+  item_renamed: "Przedmiot zmieniono na: "
+  no_item_in_hand: "Musisz trzymać przedmiot, aby zmienić jego nazwę."
+  usage: "Użycie: /rename <nowa nazwa> lub /zmiennazwe <nowa nazwa>"
