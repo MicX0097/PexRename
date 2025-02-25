@@ -1,18 +1,16 @@
-name: Pex.Rename
+name: PexRename
 version: 1.0
 main: com.micx.pexrename.Main
 commands:
   rename:
-    description: Zmienia nazwę trzymanego przedmiotu.
-    usage: /rename <new name>
+    description: Zmienia nazwę przedmiotu.
     permission: pex.rename
-    permission-message: "Nie masz pozwolenia do używania tej komendy."
   zmiennazwe:
-    description: Zmienia nazwę trzymanego przedmiotu.
-    usage: /zmiennazwe <nowa nazwa>
+    description: Zmienia nazwę przedmiotu.
     permission: pex.rename
-    permission-message: " Nie masz pozwolenia do używania tej komendy."
-permissions:
-  pex.rename:
-    description: Pozwala na zmianę nazwy przedmiotu.
-    default: op
+  setlore:
+    description: Ustawia lore przedmiotu.
+    permission: pex.setlore
+  ustawlore:
+    description: Ustawia lore przedmiotu.
+    permission: pex.setlore

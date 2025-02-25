@@ -1,0 +1,14 @@
+prefix: "&8&l[&6Pex&eRename&8&l] "
+
+messages:
+  no_permission: "Nie masz pozwolenia do używania tej komendy."
+  only_players: "Tylko gracze mogą używać tej komendy!"
+  usage_rename: "Usage: /rename <new name>"
+  usage_setlore: "Usage: /setlore <lore text>"
+  no_item_in_hand: "Musisz trzymać przedmiot, aby zmienić jego nazwę."
+  item_renamed: "Przedmiot został nazwany: {name}"
+  lore_set: "Lore zostało ustawione: {lore}"
+  no_format_permission: "Nie masz pozwolenia do używania kodu: &{code}"
+  name_too_long: "Nazwa przedmiotu jest za długa! Maksymalna długość to {max} znaków."
+  lore_too_many_lines: "Lore może mieć maksymalnie {max} linii!"
+  lore_line_too_long: "Każda linia lore może mieć maksymalnie {max} znaków!"
